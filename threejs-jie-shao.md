@@ -33,3 +33,17 @@ Three.js將webGL函式進行封裝成一個一個的物件，降低了開發者�
 
 但當需要更細節的操作時，或許仍需要研究webGL的API。
 
+three.js 中基本的繪製流程：
+
+1. 建立場景 \(通常透過 new THREE.Scene\(\)\)
+2. 建立物件（mesh\)
+   1. 建立幾何形狀
+   2. 匯入3D模型
+3. 建立材質
+4. 加入攝影機
+   1. 正交投影與透視投影外，還有 StereoCamera（Perspective Camera ） 以及 CubeCamera （360 度的攝影機）
+5. 加入燈光
+6. 呼叫 renderer.render 繪製場景。
+
+
+
