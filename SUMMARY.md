@@ -7,7 +7,9 @@
   * [測試手冊](ce-shi-shou-ce.md)
 * Blender
   * [Blender - 介紹](blender-jie-shao.md)
+  * Blender - 建模
 * Three.js
   * [Three.js - 介紹](threejs-jie-shao.md)
+
 
 
