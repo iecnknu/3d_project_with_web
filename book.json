@@ -1,0 +1,9 @@
+{
+    "plugins":["emphasize","alerts","youtubex","IECLOGO@git+https://github.com/iecnknu/gitbook-plugin-IECLOGO.git","JhengHei@git+https://github.com/iecnknu/gitbook-plugin-JhengHei.git","splitter","insert-logo-link","-sharing","expandable-chapters","copy-code-button"],
+    "pluginsConfig": {
+        "insert-logo-link": {
+            "src": "https://drive.google.com/uc?export=download&id=16aEZ3IAT-d_NDQ0WZ7hGHiTMS2_It-th",
+            "url": "www.nknucsec.com"
+        }
+    }
+}
