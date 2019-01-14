@@ -10,9 +10,13 @@
 * Three.js
   * [官網](https://threejs.org/)
 * * 功能完整、具備製作3D網頁遊戲的API。
+  * 支援多種3D繪圖軟體製作的格式。
 * BabylonJS
   * [官網](https://www.babylonjs.com/)
 * * 微軟釋出的開源3D繪圖框架。
+
+  * 支援Blender、Unity、3DS Max和Maya等3D繪圖軟體製作的格式。
+  * [線上編輯器。](http://editor.babylonjs.com/)
 * Blend4Web
   * [官網](https://www.blend4web.com/en/)
 * * 2018的冬季奧運以Blend4Web，在官網上呈現3D的比賽地圖。
@@ -25,6 +29,4 @@
 Three.js將webGL函式進行封裝成一個一個的物件，降低了開發者使用上的難度。
 
 但當需要更細節的操作時，或許仍需要研究webGL的API。
-
-
 
